@@ -1,0 +1,7 @@
+tensorflow
+pillow
+numpy
+tf2onnx
+onnxruntime
+opencv-python
+onnxconverter-common

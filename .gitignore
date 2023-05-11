@@ -1,0 +1,11 @@
+DATA
+data_original
+external
+images_test
+models
+mvenv
+save_model
+*.zip
+*.rar
+*.h5
+*.jpg
